@@ -10,4 +10,4 @@ def roll
   arr.push(counter)
   counter += 1
 end
-arr[rand]
+arr[rand(0..5)]
