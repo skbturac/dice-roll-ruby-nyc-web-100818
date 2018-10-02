@@ -3,6 +3,6 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  return (roll).to be_a(Integer)
   # code goes here
+  
 end
