@@ -7,5 +7,5 @@ def roll
   counter = 1
   arr = []
   while counter <= 6
-  arr.push
+  arr.push(counter)
 end
