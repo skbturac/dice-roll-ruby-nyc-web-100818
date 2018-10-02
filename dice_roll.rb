@@ -11,3 +11,4 @@ def roll
   counter += 1
 end
 arr[rand(0..5)]
+end
