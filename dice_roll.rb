@@ -8,5 +8,5 @@ def roll
   arr = []
   while counter <= 6
   arr.push(counter)
-  += 
+  counter += 1
 end
