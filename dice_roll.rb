@@ -6,5 +6,5 @@ def roll
   # code goes here
   counter = 1
   arr = []
-  
+  while counter <= 6
 end
