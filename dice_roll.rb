@@ -5,5 +5,6 @@
 def roll
   # code goes here
   counter = 1
+  arr = []
   
 end
